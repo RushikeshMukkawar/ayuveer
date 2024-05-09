@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59681281539",
+    "project_id": "ayuveer-76768",
+    "storage_bucket": "ayuveer-76768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59681281539:android:0a2ce503088f624dada036",
+        "android_client_info": {
+          "package_name": "com.example.ayurvedic_medicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1l8OjybVNiwwAL6SWqRXCX1fWLj96rio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59681281539:android:f5066ead8233fe4dada036",
+        "android_client_info": {
+          "package_name": "com.example.ayuveer_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1l8OjybVNiwwAL6SWqRXCX1fWLj96rio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
